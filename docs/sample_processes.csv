@@ -1,0 +1,11 @@
+PID,Process Name,CPU (%),Memory (%),Memory RSS (Bytes),Memory (Human),Status,Threads,Created Time,User
+0,System Idle Process,0.00,0.00,8192,8.0 KB,running,24,N/A,NT AUTHORITY\SYSTEM
+4,System,0.00,0.00,139264,136.0 KB,running,345,N/A,NT AUTHORITY\SYSTEM
+140,Unknown,0.00,0.53,44490752,42.4 MB,stopped,0,2026-10-15 11:05:54,N/A
+180,LenovoVantage-(SettingsWidgetAddin).exe,0.00,0.15,12828672,12.2 MB,running,16,2026-10-15 11:34:31,SANDY22\sande
+184,Registry,0.00,0.44,36569088,34.9 MB,running,4,2026-10-15 11:05:54,N/A
+664,msedge.exe,0.00,0.10,8245248,7.9 MB,running,11,2026-10-15 11:23:18,SANDY22\sande
+684,smss.exe,0.00,0.02,1294336,1.2 MB,running,2,2026-10-15 11:05:57,N/A
+716,csrss.exe,0.00,0.07,5750784,5.5 MB,running,13,2026-10-15 11:06:12,N/A
+848,msedge.exe,0.00,1.10,91656192,87.4 MB,running,18,2026-10-15 13:30:33,SANDY22\sande
+992,svchost.exe,0.00,0.11,9289728,8.9 MB,running,4,2026-10-15 11:06:15,N/A

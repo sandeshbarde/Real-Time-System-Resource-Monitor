@@ -1,0 +1,2 @@
+Timestamp (Epoch),Local Time,CPU Utilization (%),RAM Usage (%),RAM Used (Bytes),RAM Total (Bytes),Disk Occupancy (%),Disk Used (Bytes),Disk Total (Bytes),Net Upload (Bytes/sec),Net Download (Bytes/sec),Net Upload (Human),Net Download (Human)
+1792051350.51,2026-10-15 13:32:30,43.60,89.60,7490011136,8362713088,75.70,386096492544,509721178112,40219.92,1793.31,39.3 KB/s,1.8 KB/s
